@@ -13,9 +13,9 @@ body {
     transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
   }
 body {
-    background-image: url("bg.png");
+    background-image: url("img/bg.png");
     background-repeat: no-repeat;
-    cursor: url('cursor.png'),auto;
+    cursor: url('img/cursor.png'),auto;
     background-size: 170%;
   }
 
